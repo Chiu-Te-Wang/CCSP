@@ -1,7 +1,7 @@
 .new-event {
 	position: fixed;
 	right: 5%;
-	bottom: 10%;
+	top: 5%;
 	z-index: 1;
 }
 
