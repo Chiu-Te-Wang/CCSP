@@ -46,6 +46,7 @@ div#nowState{
 h1#ctwH1{
 	text-align: center;
 	font-size: 40px;
+	font-weight: 5px solid;
 }
 h2#ctwH2{
 	text-align: center;
@@ -54,5 +55,8 @@ h2#ctwH2{
 div.ctwContent{
 	text-align: center;
 	margin-left: 35%;
+}
+body.Chiu-state-0{
+	background-color: rgba(77, 15, 55, 0.5);
 }
 
