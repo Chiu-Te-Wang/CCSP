@@ -1,0 +1,58 @@
+label.myLabel{
+	display: inline;
+}
+
+input[type="file"].ctwInput{
+	display: inline;
+}
+
+div#test{
+	width: 50%;
+	position: relative;
+    min-height: 1px;
+    padding-right: 15px;
+    padding-left: 15px;
+}
+input[type="text"]#ctwInput{
+	display: inline;
+}
+
+div#test.ctwText{
+	font-size: 25px;
+	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif
+}
+
+div#upload{
+	width: 33.33333333%;
+	position: relative;
+    min-height: 1px;
+    padding-right: 15px;
+    padding-left: 15px;
+    padding-top: 20px;
+	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif
+}
+div#upload span{
+	font-size: 25px;
+	padding-left: 55%;
+}
+button#ctwBTW{
+    margin-left:  5px;
+}
+div#nowState{
+	margin-top:  5px;
+	margin-bottom: 5px;
+}
+
+h1#ctwH1{
+	text-align: center;
+	font-size: 40px;
+}
+h2#ctwH2{
+	text-align: center;
+	font-size: 30px;
+}
+div.ctwContent{
+	text-align: center;
+	margin-left: 35%;
+}
+
