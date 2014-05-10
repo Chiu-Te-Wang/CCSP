@@ -57,6 +57,12 @@ div.ctwContent{
 	margin-left: 35%;
 }
 body.Chiu-state-0{
-	background-color: rgba(77, 15, 55, 0.5);
+	background-color: rgba(200, 40, 10, 0.5);
+}
+button#mySubmit{
+	width: 20%;
+    margin-left: 42%;
+    margin-top: 35px;
+
 }
 
